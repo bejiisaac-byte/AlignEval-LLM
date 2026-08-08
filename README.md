@@ -45,7 +45,7 @@ AlignEval-LLM is a practical post-training pipeline that combines Supervised Fin
 - Efficient post-training under limited compute budgets
 
 ## Status
-Active pipeline used for experiments on controllable behavioral alignment of open-weight language models.
+Active pipeline (updated August 2026). Used for experiments on controllable behavioral alignment of open-weight language models. Ongoing refinements focus on preference data quality and evaluation reliability.
 
 ---
 
